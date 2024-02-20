@@ -34,7 +34,7 @@ let categories = [
     },
     {
       id: 2,
-      task: "Read a chapter of a book",
+      task: "Marry me plis",
       category: "Personal",
       completed: false,
     },
